@@ -4,8 +4,9 @@ int main()
 {
     int a, ans, num, num1, chr, alpha;
     printf("I AM GONNA READ YOUR MIND\n");
+    printf("PRESS ENTER FOR EVERY LINE\n");
     getc(stdin);
-    printf("TAKE YOUR CALCULATOR THEN\n");
+    printf("   TAKE YOUR CALCULATOR   \n");
     getc(stdin);
     printf("       LETS BEGIN !      \n");
     getc(stdin);
