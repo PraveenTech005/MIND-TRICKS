@@ -1,7 +1,9 @@
 HI !
-I KNOW SOME MIND READING TECHNICS !
-SO I SHARE IT WITH YOU ALL BY MY BEGINEER CODING SKILL !
+- I Know Some Mind Reading Technics !
+- So I Share It With You All, By My Begineer Level Coding Skills !
 
-IF YOU WANT TO ASK ANY DOUBT CONTACT ME.
+- If You Want To Ask Any Doubt Contact Me.
 
-AND DON'T SHY TO CONTACT.
+- And Don't Shy To Contact.
+
+- Watch This - https://github.com/PraveenTech005/PraveenTech005
